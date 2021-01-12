@@ -6,4 +6,4 @@ Tercer Commit.
 Ultimo Commit.
 Modificacion Rama 1.
 Modificacion Rama 1-2.
-Tendremos que resolver conflicto.
+Esto generará Conflito.
